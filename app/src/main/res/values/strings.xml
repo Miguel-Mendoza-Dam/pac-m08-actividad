@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PAC_Desarrollo_M08_MendozaMiguel</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="toActivity1">To Activity 1</string>
+    <string name="toActivity2">To Activity 2</string>
+    <string name="toActivity3">To Activity 3</string>
+    <string name="toActivity4">To Activity 4</string>
+    <string name="welcomeImage">Welcome Image</string>
+</resources>
